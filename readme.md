@@ -18,3 +18,13 @@ VS Code est très bien fait: à l'ouverture des fichiers, en fonction des extens
 Il s'agit à la fois d'une introduction au machine learning et aux bonnes pratiques et d'exercices avancés sur numpy/matplotlib. On consolide la pratique du python scientifique à travers la construction et l'évaluation de modèles de machine learning.
 
 <img src="/2_classif_bayes/ressources/usps.png" width=200px>
+
+
+## 3. Descente de gradient et régression
+
+Dernière séance consacrée à numpy: nous allons apprendre un régresseur par descente de gradient afin de réviser:
+1. numpy
+2. la problématique de la régression
+3. l'algorithme de la descente de gradient
+
+<img src="/3_gradient/fig/grad_descente.png" width=200px>
