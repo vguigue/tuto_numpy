@@ -17,4 +17,4 @@ VS Code est très bien fait: à l'ouverture des fichiers, en fonction des extens
 
 Il s'agit à la fois d'une introduction au machine learning et aux bonnes pratiques et d'exercices avancés sur numpy/matplotlib. On consolide la pratique du python scientifique à travers la construction et l'évaluation de modèles de machine learning.
 
-![cas d'usage](/2_classif_bayes/ressources/usps.png)
+![cas d'usage](/2_classif_bayes/ressources/usps.png|width=300px)
