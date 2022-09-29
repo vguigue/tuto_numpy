@@ -27,4 +27,4 @@ Dernière séance consacrée à numpy: nous allons apprendre un régresseur par 
 2. la problématique de la régression
 3. l'algorithme de la descente de gradient
 
-<img src="/3_gradient/fig/animation.gif" width=400px>
+<img src="/3_gradient/fig/animation.gif" width=800px>
