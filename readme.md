@@ -27,4 +27,6 @@ Dernière séance consacrée à numpy: nous allons apprendre un régresseur par 
 2. la problématique de la régression
 3. l'algorithme de la descente de gradient
 
+De nouveau, nous consolidons les bases de numpy/matplotlib... Tout en poursuivant le panorama du ML vers les problèmes de régression et de gradient. Ce dernier point est critique: le gradient est un outil central dans tous les réseaux de neurones et il est important d'avoir une représentation mentale de l'impact des différents réglages possibles.
+
 <img src="/3_gradient/fig/animation.gif" width=800px>
