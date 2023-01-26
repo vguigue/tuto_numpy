@@ -2,15 +2,19 @@
 
 Ce tutoriel est basé sur des notebook jupyter, il requiert:
 * une distribution scientifique de python, la plus répendue étant anaconda [lien](https://www.anaconda.com)
-* pour travailler sur les canevas proposés, il suffit ensuite de taper:
+* [mac/linux] pour travailler sur les canevas proposés, il suffit ensuite de taper:
   jupyter-notebook <fichier.ipynb> 
-* éventuellement un éditeur avancé capable de gérer les notebooks: VS Code [lien](https://code.visualstudio.com)
+* [windows] naviguer dans anaconda pour charger le fichier
+* [online] en cas de problème, les liens ci-dessous donne accès aux mêmes TP en ligne via google colab
+  * il faut un compte gmail et une connexion internet pour en profiter
+* [option avancée] éventuellement un éditeur avancé capable de gérer les notebooks: VS Code [lien](https://code.visualstudio.com)
 VS Code est très bien fait: à l'ouverture des fichiers, en fonction des extensions, il propose de télécharger des plugins pour gérer les spécificités desdits fichiers.
 
 
 1. La prise en main de python et des notebooks est très importante: 
 11. posez vos questions au fur et à mesure, 
-11. ne vous laissez pas étourdir par les notebooks qui *avancent tout seuls*: cherchez toujours à comprendre ce qui se passe
+11. ne vous laissez pas étourdir par les notebooks qui *avancent tout seuls*: cherchez toujours à comprendre ce qui se passe,
+11. ne pas passer trop de temps sur les premières boites, vous pourrez toujours revenir en arrière
 1. Numpy et matplotlib sont des librairies à maitriser
 
 ## 2. Classification bayesienne
